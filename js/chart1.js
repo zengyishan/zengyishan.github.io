@@ -1236,7 +1236,7 @@ option = {
     backgroundColor: 'transparent',
     title: {
         text: '中国高铁线路图',
-        subtext: '数据来源:xxx',
+        subtext: '数据来源:12306 高铁网',
         left: 'center',
         textStyle: {
             color: '#333'
