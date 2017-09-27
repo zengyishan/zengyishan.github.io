@@ -1198,7 +1198,7 @@ data.forEach(function(item, i) {
                 formatter: '{b}',
                 margin: '0 40px 0 0',
                 textStyle: {
-                    fontSize: '2'
+                    fontSize: '12'
                 }
             }
         },
@@ -1218,12 +1218,12 @@ data.forEach(function(item, i) {
                     itemStyle: {
                         normal: {
                             textStyle: {
-                                fontSize: '4',
+                                fontSize: '18px',
                             }
                         }
                     },
                     textStyle: {
-                        fontSize: '4'
+                        fontSize: '18px'
                     }
                 };
             }
